@@ -1,2 +1,6 @@
-# Monkey-And-Crocodile
-Story telling using git commands
+characters
+Monkey
+Crocodile
+Crocodile's Wife
+Doctor
+Tortoise
